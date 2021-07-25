@@ -1,0 +1,9 @@
+C:\Users\aoj\Desktop\Internal Courses\github_alexnovafori\mine-sweeper\MineSweeper\MineSweeper\bin\Debug\netcoreapp3.1\MineSweeper.deps.json
+C:\Users\aoj\Desktop\Internal Courses\github_alexnovafori\mine-sweeper\MineSweeper\MineSweeper\bin\Debug\netcoreapp3.1\MineSweeper.dll
+C:\Users\aoj\Desktop\Internal Courses\github_alexnovafori\mine-sweeper\MineSweeper\MineSweeper\bin\Debug\netcoreapp3.1\MineSweeper.pdb
+C:\Users\aoj\Desktop\Internal Courses\github_alexnovafori\mine-sweeper\MineSweeper\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.AssemblyInfoInputs.cache
+C:\Users\aoj\Desktop\Internal Courses\github_alexnovafori\mine-sweeper\MineSweeper\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.AssemblyInfo.cs
+C:\Users\aoj\Desktop\Internal Courses\github_alexnovafori\mine-sweeper\MineSweeper\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\aoj\Desktop\Internal Courses\github_alexnovafori\mine-sweeper\MineSweeper\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.dll
+C:\Users\aoj\Desktop\Internal Courses\github_alexnovafori\mine-sweeper\MineSweeper\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.pdb
+C:\Users\aoj\Desktop\Internal Courses\github_alexnovafori\mine-sweeper\MineSweeper\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.csproj.AssemblyReference.cache
